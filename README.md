@@ -7,24 +7,24 @@ SCADA Vending Machine State Machine using LabVIEW
 
 ## Block Diagram
 
-Start State:  
+### Start State:  
 
 ![](./pictures/block-start-state.png)
 
-5 Cent State:  
+### 5 Cent State:  
 
 ![](./pictures/block-5-cent-state.png)
 
-10 Cent State:  
+### 10 Cent State:  
 
 ![](./pictures/block-10-cent-state.png)
 
-Dispense State:  
+### Dispense State:  
 
 ![](./pictures/block-dispense-state.png)
 
 ## Front Panel
 
-Controls and indicators:  
+### Controls and indicators:  
 
 ![](./pictures/front-panel.png)
